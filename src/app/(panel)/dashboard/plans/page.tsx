@@ -1,7 +1,8 @@
+
 export default function Plans() {
-    return (
-        <div>
-            <h1>Planos para assinatura</h1>
-        </div>
-    );
+  return (
+    <section>
+      <h1>Página planos para assinatura</h1>
+    </section>
+  )
 }
